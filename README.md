@@ -36,8 +36,22 @@
       </ul>
   </ol>
 <h2>Result</h2>
-<img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/Terminal.png">
-<img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/Task.png">
+<div>
+  <p>A user named Fabio has been added to the database</p>
+  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/Terminal.png" alt="terminal_screenshot" width="380">
+</div>
+<div>
+  <p>All the necessary steps were completed</p>
+  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/Task.png" alt="tasks_screenshot" width="380">
+</div>
+<h2>Possible options for the future project improvement</h2>
+<ul>
+  <li>Add more services</li>
+  <li>Phone number check</li>
+  <li>Suggest another time if that time is already taken</li>
+  <li>The ability to sign up for several services at once</li>
+  <li>Add a more in-depth version of the services</li>
+</ul>
 <h2>Helpful Links</h2>
 <ol>
   <li><a href="https://www.postgresql.org/docs/">PostgreSQL documentation</a></li>
