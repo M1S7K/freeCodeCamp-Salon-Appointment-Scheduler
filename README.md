@@ -42,7 +42,7 @@
 </div>
 <div>
   <p>All the necessary steps were completed</p>
-  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/Task.png" alt="tasks_screenshot" width="380">
+  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/screenshots/Task.png" width="380">
 </div>
 <h2>Possible options for the future project improvement</h2>
 <ul>
