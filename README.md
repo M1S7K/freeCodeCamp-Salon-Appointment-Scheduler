@@ -35,6 +35,9 @@
         <li>Save all the required files into a public repository and submit the URL.</li>
       </ul>
   </ol>
+<h2>Result</h2>
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
 <h2>Helpful Links</h2>
 <ol>
   <li><a href="https://www.postgresql.org/docs/">PostgreSQL documentation</a></li>
