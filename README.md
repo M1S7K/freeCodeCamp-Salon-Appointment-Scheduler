@@ -38,7 +38,7 @@
 <h2>Result</h2>
 <div>
   <p>A user named Fabio has been added to the database</p>
-  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/Terminal.png" alt="terminal_screenshot" width="380">
+  <img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/screenshots/Terminal.png" alt="terminal_screenshot" width="380">
 </div>
 <div>
   <p>All the necessary steps were completed</p>
