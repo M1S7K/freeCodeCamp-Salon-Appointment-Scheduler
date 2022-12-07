@@ -51,6 +51,7 @@
   <li>Suggest another time if that time is already taken</li>
   <li>The ability to sign up for several services at once</li>
   <li>Add a more in-depth version of the services</li>
+  <li>Regular expression for the submitted time</li>
 </ul>
 <h2>Helpful Links</h2>
 <ol>
