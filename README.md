@@ -36,8 +36,7 @@
       </ul>
   </ol>
 <h2>Result</h2>
-
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+<img src="https://raw.githubusercontent.com/M1S7K/freeCodeCamp-Salon-Appointment-Scheduler/main/Terminal.png">
 <h2>Helpful Links</h2>
 <ol>
   <li><a href="https://www.postgresql.org/docs/">PostgreSQL documentation</a></li>
