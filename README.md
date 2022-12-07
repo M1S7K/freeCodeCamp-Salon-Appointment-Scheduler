@@ -8,7 +8,7 @@
   <ol>
     <li>Complete the project.</li>
       <ul>
-        <li>create a database named "salon"</li>
+        <li>Create a database named "salon"</li>
         <li>Aonnect to the database, then create tables named "customers", "appointments", and "services"</li>
         <li>Each table should have a primary key column that automatically increments</li>
         <li>Each primary key column should follow the naming convention, "table_name_id"</li>
